@@ -46,6 +46,8 @@ E C 4 <br>
 
 ## In class
 
+directed <br>
+
 A <br>
 B <br>
 C <br>
